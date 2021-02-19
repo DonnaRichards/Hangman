@@ -28,7 +28,7 @@ The file ps3_hangman.py has a number of already implemented functions you can us
 
 You will want to do all of your coding for this problem within this file as well because you will be writing a program that depends on each function you write.
 
-##Requirements
+## Requirements
 Here are the requirements for your game:
 
 The computer must select a word at random from the list of available words that was provided in words.txt. The functions for loading the word list and selecting a random word have already been provided for you in ps3_hangman.py.
